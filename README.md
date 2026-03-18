@@ -17,7 +17,7 @@ BERT (Transformer)
 
 RoBERTa (Advanced Transformer)
 
-🚀 Features
+** Features **
 
 Text preprocessing (cleaning, normalization)
 
@@ -39,7 +39,7 @@ Classification report (Precision, Recall, F1-score)
 
 WordCloud visualization
 
-📂 Dataset
+ Dataset
 
 We use the Twitter Airline Sentiment Dataset from Kaggle.
 
@@ -49,7 +49,7 @@ Labeled as positive or negative
 
 🧠 Technologies Used
 
-Python 🐍
+Python 
 
 Pandas
 
@@ -65,7 +65,7 @@ Matplotlib / Seaborn
 
 WordCloud
 
-🏗️ Project Architecture
+ Project Architecture
 Dataset (Twitter Tweets)
         ↓
 Text Cleaning
